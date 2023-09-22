@@ -6,3 +6,4 @@
 - :bookmark_tabs:  Les requêtes HTTP contiennent des en-têtes indiquant le navi>
 - :postbox: Les réponses HTTP incluent des codes de statut tels que 200 (succès>
 -
+ this theory file has been reviewed by Justin
